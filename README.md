@@ -7,6 +7,7 @@
 - 공식문서: https://auto.gluon.ai/stable/index.html
 - 소스코드: https://github.com/autogluon/autogluon
 - AutoML on AWS 유튜브 튜토리얼: https://www.youtube.com/watch?v=7OB5aWsJvn8
+  - 소스코드: https://github.com/aws-samples/autogluon-on-aws
 - kaggle / dacon 노트북
     - https://www.kaggle.com/code/mozattt/titanic-by-automl-autogluon-quick-start
     - https://www.kaggle.com/code/jonaswm/autogluon-automl
